@@ -4,11 +4,13 @@
 
 ***Project target:*** To find out the best model in predicting survival condition of each passenger
 
+
 **Model used:** logistic regression, Random Forest 
 
 **Tool used:** Jupyter Notebook, Python, Streamlit
 
-**Imported libraries:** pandas, numpy, matplotlib.pyplot, seaborn, train_test_split, LogisticRegression, accuracy_score, StandardScaler, RandomForestClassifier, cross_val_score, 
+**Imported libraries:** pandas, numpy, matplotlib.pyplot, seaborn, train_test_split, LogisticRegression, accuracy_score, StandardScaler, RandomForestClassifier, cross_val_score, classification_report, confusion_matrix, precision_score, recall_score, f1_score
+
 
 ## Process ##
 Data Loading & Exploration ✅
