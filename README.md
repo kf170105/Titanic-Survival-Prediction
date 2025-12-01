@@ -1,6 +1,6 @@
 # Titanic Survival Prediction (Machine Learning)
 
-** model used: logistic regression, Random Forest
+**model used:** logistic regression, Random Forest
 
 
 Data Loading & Exploration ✅
