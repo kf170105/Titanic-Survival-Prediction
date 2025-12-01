@@ -3,7 +3,8 @@
 Project purpose: To predict whether each passenger is survived or not from the titanic disaster using different models going through ML workflow
 Project target: To find out the best model in predicting survival condition of each passenger
 
-**Model used:** logistic regression, Random Forest :contentReference[oaicite:1]{index=1}  
+**Model used:** logistic regression, Random Forest 
+
 **Tool used:** Jupyter Notebook, Python, Streamlit
 **Imported libraries:** pandas, numpy, matplotlib.pyplot, seaborn, train_test_split, LogisticRegression, accuracy_score
 
